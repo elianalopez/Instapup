@@ -27,16 +27,17 @@ An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
  
 ![heroku](project_images/heroku_structure.png)
 
+#### Heroku Structure in depth
 
- ##### Code
+##### Code
  A folder that contains bot.py and a modified combination of clean.py and image.py.
  The combination was due to the limit of 2 free dynos. 
  
- ##### Procfile
+##### Procfile
  
- ##### ruquriments.txt
+##### ruquriments.txt
  
- #### runtime.txt
+#### runtime.txt
  
  
 ## Project Images
