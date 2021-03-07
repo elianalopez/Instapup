@@ -11,7 +11,7 @@ load_dotenv()                    #for python-dotenv method
 USERNAME = os.getenv('USER_NAME')
 PASSWORD = os.getenv('PASSWORD')
 
-img_folder_path = './code/images/'
+img_folder_path = 'images/'
 max = os.listdir(img_folder_path)
 print(len(max))
 
