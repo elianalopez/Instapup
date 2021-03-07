@@ -30,7 +30,7 @@ def main():
     threading.Timer(300.0, main).start()
     
 def clean():
-    dir_name = "code/images/"
+    dir_name = "images/"
     test = os.listdir(dir_name)
 
     for item in test:
