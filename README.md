@@ -70,7 +70,7 @@ After that the number of images for that search term is then chosen out of a max
  * bot.py
  * image.py
  * images
- * 
+ 
 ##### Procfile
  
  A file that declares what commands Heroku should run.
