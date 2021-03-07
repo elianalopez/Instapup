@@ -1,4 +1,2 @@
-dir: cd code
-bot: python3 bot.py
-image: python3 image.py
-clean: python3 clean.py
+bot: python3 /code/bot.py
+image: python3 /code/image.py
