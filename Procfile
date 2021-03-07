@@ -1,2 +1,2 @@
-worker: python /code/bot.py
-work: python /code/image.py
+worker: python code/bot.py
+imager: python code/image.py
