@@ -10,8 +10,6 @@ load_dotenv()                    #for python-dotenv method
 
 USERNAME = os.getenv('USER_NAME')
 PASSWORD = os.getenv('PASSWORD')
-print(USERNAME)
-print(PASSWORD)
 
 img_folder_path = 'code/images/'
 max = os.listdir(img_folder_path)
