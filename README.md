@@ -23,11 +23,22 @@ An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
 
 ![local](project_images/local_structure.png)
 
+#### Local Structure in Depth
+
+##### Code
+ A folder that contains bot.py, clean.py, and and image.py.
+ 
+##### boy.py
+ 
+##### clean.py
+ 
+#### image.py
+
  ### Heroku Deployment Structure
  
 ![heroku](project_images/heroku_structure.png)
 
-#### Heroku Structure in depth
+#### Heroku Structure in Depth
 
 ##### Code
  A folder that contains bot.py and a modified combination of clean.py and image.py.
@@ -35,7 +46,7 @@ An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
  
 ##### Procfile
  
-##### ruquriments.txt
+##### requriments.txt
  
 #### runtime.txt
  
