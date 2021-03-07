@@ -25,8 +25,17 @@ SEARCH= {"dog": 1, "dogs":2, "pupper":3, "puppers":4, "puppy":5,"doggo":6, "dogg
 def main():
     if not os.path.exists(SAVED_FOLDER):
         os.mkdir(SAVED_FOLDER)
+    clean()
     download_images()
     threading.Timer(300.0, main).start()
+    
+def clean():
+    dir_name = "code/images/"
+    test = os.listdir(dir_name)
+
+    for item in test:
+        if item.endswith(".REMOVE_ME"):
+            os.remove(os.path.join(dir_name, item))
 
 def download_images():
     data = random.choice(list(SEARCH))
