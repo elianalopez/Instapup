@@ -61,15 +61,25 @@ After that the number of images for that search term is then chosen out of a max
 #### Heroku Structure in Depth
 
 ##### Code
+
  A folder that contains bot.py and a modified combination of clean.py and image.py.
  The combination was due to the limit of 2 free dynos. 
  
 ##### Procfile
  
+ A file that declares what commands Heroku should run.
+ 
 ##### requriments.txt
+
+A text file that make sures heroku is able to install all the libraries needed for the program.
+
+
+Created with this command
+```pip freeze > requirements.txt```
  
 ##### runtime.txt
- 
+
+Lets heroku know what Python version the program is using.
  
 ## Project Images
 
