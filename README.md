@@ -21,6 +21,8 @@ An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
 
 ### Local Project Structure
 
+![local](project_images/local_structure.png)
+
 Instapup
  |
  +--config
@@ -36,6 +38,9 @@ Instapup
  +--settings.json
  
  ### Heroku Deployment Structure
+ 
+ ![heroku](project_images/heroku_structure.png)
+
  
  Instapup
  |
