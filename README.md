@@ -65,6 +65,12 @@ After that the number of images for that search term is then chosen out of a max
  A folder that contains bot.py and a modified combination of clean.py and image.py.
  The combination was due to the limit of 2 free dynos. 
  
+ Within the code folder:
+ 
+ * bot.py
+ * image.py
+ * images
+ * 
 ##### Procfile
  
  A file that declares what commands Heroku should run.
