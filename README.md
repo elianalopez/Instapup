@@ -12,6 +12,6 @@ Here are some of the images of the project at works!
 <p align="center"><img src="https://raw.githubusercontent.com/elianalopez/Instapup/main/project_images/instapup1.jpeg" width="30%" height="30%"></p>
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/Instapup/main/project_images/instapup2.jpeg" width="30%" height="30%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/elianalopez/Instapup/main/project_images/feed.jpeg" width="30%" height="30%"></p>
 
 
