@@ -1,4 +1,4 @@
-worker: cd code
-worker: python3 bot.py
-worker: python3 image.py
-worker: python3 clean.py
+dir: cd code
+bot: python3 bot.py
+image: python3 image.py
+clean: python3 clean.py
