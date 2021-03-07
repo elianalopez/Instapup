@@ -31,8 +31,8 @@ An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
 ##### boy.py
  
 ##### clean.py
- 
-#### image.py
+
+##### image.py
 
  ### Heroku Deployment Structure
  
@@ -48,7 +48,7 @@ An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
  
 ##### requriments.txt
  
-#### runtime.txt
+##### runtime.txt
  
  
 ## Project Images
