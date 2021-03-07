@@ -28,7 +28,7 @@ def main():
 
 def upload():
     try:
-        num = randint(1, 75)
+        num = randint(1, 80)
         bot.upload_photo(f"code/images/dog{num}.jpg", caption = "woof!")
         print("woof! (done)")
 
