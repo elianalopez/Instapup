@@ -1,5 +1,5 @@
-# UPDATE :
-## The bot is no longer in service since it has been shadow banned by instagram so I am unable to post. 
+## UPDATE :
+### The bot is no longer in service since it has been shadow banned by instagram so I am unable to post. 
 * This is probably due to the fact that the bot uploads photos in a consistent manner
 # Instapup
 An Instagram bot that attempts to upload a photo of a dog every 5 minutes!
